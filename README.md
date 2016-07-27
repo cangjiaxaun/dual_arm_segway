@@ -1,2 +1,2 @@
-# dual_arm_segway
+# segway
 segway rmp220 with dual-arm
